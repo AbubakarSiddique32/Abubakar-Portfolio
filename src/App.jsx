@@ -1,10 +1,10 @@
 import React from "react";
-import Fixbar from "./Components/Fixbar";
+import NavbarMain from "./Components/Navbar/NavbarMain";
 
 const App = () => {
   return (
     <div>
-      <Fixbar />
+      <NavbarMain />
     </div>
   );
 };
