@@ -3,7 +3,9 @@ import React from "react";
 const NavbarLogo = () => {
   return (
     <div>
-      <h1 className="">Abubakar Siddique</h1>
+      <h1 className=" flex font-bold text-3xl items-center">
+        Abubakar Siddique
+      </h1>
     </div>
   );
 };
