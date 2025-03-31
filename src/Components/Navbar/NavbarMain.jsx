@@ -9,6 +9,48 @@ const NavbarMain = () => {
         <NavbarLogo />
         <NavbarLinks />
         <NavbarBtn />
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore quidem
+          atque est hic blanditiis, unde, placeat facilis repellendus laudantium
+          magni soluta adipisci quisquam architecto totam, laboriosam ipsa
+          reiciendis numquam? Unde.
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel quisquam
+          officia nesciunt quam ratione repudiandae facere ipsum quos totam
+          placeat, laudantium dolore velit. Consequuntur fuga officia a vero
+          fugiat ut reiciendis animi eligendi necessitatibus dolorem, sint
+          suscipit ad enim quam, odio praesentium veniam vel quos. Porro ipsam
+          sint illo vero nobis tempore deleniti sequi reprehenderit quia
+          dolorem, labore id minima natus, distinctio earum libero harum eum
+          iste pariatur! Quasi maiores facilis nostrum unde ad et harum,
+          deserunt distinctio voluptatibus tenetur nemo repellat, corporis
+          beatae ipsam dolores, reprehenderit mollitia expedita. Qui, quaerat
+          ipsa! Sunt obcaecati reprehenderit ipsum omnis repudiandae
+          exercitationem excepturi ea neque consequuntur voluptatum laborum
+          tempore quia impedit non, ad nulla ut facilis maiores nisi voluptate
+          officia animi debitis! Ab a doloribus dolorum illo tempora! Ex,
+          dolores delectus nam enim voluptatem voluptates quas modi nobis
+          laudantium ipsa molestias, esse, doloremque eos omnis odio molestiae
+          cumque facilis adipisci accusamus veritatis ea labore odit. Vero,
+          magnam dolorum, ratione sunt corrupti nam veritatis maxime libero aut
+          quos assumenda voluptatibus fugit suscipit eum enim numquam impedit
+          culpa? Ad unde et tempore non facilis dicta similique necessitatibus
+          est sapiente nam, qui ut pariatur adipisci accusantium soluta hic iure
+          placeat incidunt aut explicabo magnam optio ipsa sunt id. Esse totam
+          asperiores, perspiciatis officia dolorum culpa odit enim similique
+          distinctio aut quod eum neque assumenda dolor pariatur eveniet
+          laboriosam? Ipsam ex nihil perferendis distinctio eum, provident
+          accusantium ullam nam quo minima saepe sequi debitis facere. Cum
+          cupiditate obcaecati voluptatibus qui rerum, sit dolorem repudiandae,
+          error illum eius similique odio accusamus necessitatibus excepturi
+          dignissimos doloribus deleniti molestiae quisquam corrupti earum dolor
+          perspiciatis suscipit. Repudiandae, sed, modi esse eligendi, quod
+          exercitationem velit obcaecati inventore possimus itaque quis.
+          Necessitatibus odio iusto suscipit maxime repudiandae! Qui facilis
+          consequuntur beatae asperiores. Tempore at labore officiis, pariatur
+          quod molestiae voluptates qui recusandae adipisci.
+        </p>
       </div>
     </nav>
   );
