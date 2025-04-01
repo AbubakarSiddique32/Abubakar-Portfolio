@@ -51,6 +51,32 @@ const NavbarMain = () => {
           consequuntur beatae asperiores. Tempore at labore officiis, pariatur
           quod molestiae voluptates qui recusandae adipisci.
         </p>
+
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. A sunt fuga
+          consequatur consequuntur perspiciatis labore facilis blanditiis
+          aliquid similique, cumque, dolore est illum ipsa, rerum vero! Ipsam
+          error libero illo, officiis commodi voluptates impedit. Vero ipsam
+          perspiciatis est quidem minus quia debitis culpa unde, praesentium
+          omnis ex aspernatur, consequuntur, sint modi consectetur illum saepe?
+          Labore voluptatum qui laborum reiciendis distinctio ipsam aliquam
+          tempore eos numquam repellendus praesentium totam minus illum,
+          repudiandae atque molestias voluptates quidem, laudantium dolorum
+          accusantium saepe quaerat? Veniam ratione reprehenderit, molestias
+          debitis quam minima necessitatibus inventore eum id perferendis esse
+          ullam placeat, expedita quod, temporibus saepe atque quae repudiandae
+          cum iste! Laudantium illo quidem vitae ullam dolores dolor, sit
+          suscipit nemo officiis deserunt beatae, nisi a excepturi nam quia!
+          Earum veniam amet cupiditate omnis quisquam. Atque autem molestias
+          beatae voluptates omnis tempore, tenetur dolor rem recusandae fugit.
+          Cum minus quia vitae rerum ipsum temporibus natus expedita amet?
+          Dolores totam nostrum laboriosam placeat cum assumenda sit quod in
+          fugit dolorum animi error id, distinctio culpa, accusantium voluptates
+          rem aliquam vitae soluta nulla ducimus sequi iure optio fuga! Sint nam
+          provident nobis officiis eius non dolor, praesentium repellendus sed,
+          doloribus, vel tempore sunt corporis animi velit aperiam officia
+          aliquid.
+        </p>
       </div>
     </nav>
   );
