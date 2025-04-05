@@ -3,7 +3,7 @@ import NavbarMain from "./Components/Navbar/NavbarMain";
 
 const App = () => {
   return (
-    <div>
+    <div className=" font-body">
       <NavbarMain />
     </div>
   );
