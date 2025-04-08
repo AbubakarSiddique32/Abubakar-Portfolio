@@ -3,6 +3,7 @@ import NavbarMain from "./Components/Navbar/NavbarMain";
 import HeroMain from "./Components/HeroSection/HeroMain";
 import HeroBottom from "./Components/HeroSection/HeroBottom";
 import AboutMeMain from "./Components/AboutMe/AboutMeMain";
+import SkillsMain from "./Components/SkillsSection/SkillsMain";
 
 const App = () => {
   return (
@@ -11,6 +12,7 @@ const App = () => {
       <HeroMain />
       <HeroBottom />
       <AboutMeMain />
+      <SkillsMain />
     </div>
   );
 };

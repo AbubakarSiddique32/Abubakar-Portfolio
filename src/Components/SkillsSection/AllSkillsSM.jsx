@@ -39,18 +39,14 @@ const skills = [
   },
 ];
 
-const AllSkills = () => {
+const AllSkillsSM = () => {
   return (
     <div>
-      <div className=" flex items-center gap-2 justify-center relative max-w-[1200px]">
-        {skills.map((skill, index) => {
-          return (
-            <SingleSkill key={index} text={skill.skill} imgSvg={skill.icon} />
-          );
-        })}
-      </div>
+      {skills.map((skill, index) => {
+        return div;
+      })}
     </div>
   );
 };
 
-export default AllSkills;
+export default AllSkillsSM;
