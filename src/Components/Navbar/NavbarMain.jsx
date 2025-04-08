@@ -9,16 +9,15 @@ const NavbarMain = () => {
     setMenuOpen(!menuOpen);
   };
   return (
-    <nav className=" fixed max-w-[1300px] w-full mx-auto px-4 left-[50%] -translate-x-[50%] z-20 flex gap-4 mt-4">
-      <div className="flex justify-between w-full max-w-[1200px] mx-auto bg-black items-center p-4 rounded-full border-[0.5px] border-orange">
+    <nav className=" fixed  w-full max-w-[1500px] mx-auto px-4  z-20 flex gap-4 mt-4 ">
+      <div className="flex justify-between w-full max-w-[1200px] mx-auto bg-black items-center p-4  rounded-full border-[0.5px] border-orange">
         <NavbarLogo />
         <div className={`${menuOpen ? "sm:block " : "sm:hidden"} lg:block`}>
           <NavbarLinks />
         </div>
-
         <NavbarBtn />
       </div>
-      <div className=" flex lg:hidden sm:block bg-black items-center justify-center rounded-full p-3 sm:p-4 md:p-6 border-[0.5px] border-orange">
+      <div className=" flex lg:hidden sm:block bg-black items-center justify-center rounded-full p-3 sm:p-4 border-[0.5px] border-orange">
         <button
           className="text-white rounded-full text-2xl p-3 border border-orange"
           onClick={toggleMenu}

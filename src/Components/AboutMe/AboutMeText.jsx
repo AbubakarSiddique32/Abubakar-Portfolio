@@ -2,20 +2,19 @@ import React from "react";
 
 const AboutMeText = () => {
   return (
-    <div>
-      <h2>About Me</h2>
-      <p>
-        I'm a passionate Front-End Web Developer with a strong focus on creating
-        visually appealing, responsive, and high-performance websites. With
-        experience in building modern user interfaces using technologies like
-        HTML, CSS, JavaScript, and React, I specialize in turning ideas into
-        functional, interactive digital experiences. I also integrate essential
-        tools like Klaviyo for email automation, optimize websites for mobile
-        performance, and ensure seamless plugin integrations. Whether you're a
-        brand looking to stand out or a business aiming for better user
-        engagement, I bring clean code, creative thinking, and a user-first
-        approach to every project.
+    <div className=" flex flex-col md:items-start sm:items-center md:text-left sm:text-center">
+      <h2 className=" text-6xl text-cyan mb-10">About Me</h2>
+      <p className=" text-white">
+        I'm a passionate freelance web developer with 1 year of hands-on
+        experience building responsive, user-friendly websites. I specialize in
+        modern frontend technologies like Html, CSS, JavaScript, React JS and
+        Tailwind CSS, and I love turning ideas into clean, functional designs.
+        Whether it's a landing page or a full web app, I’m all about delivering
+        high-quality work that helps businesses stand out online.
       </p>
+      <button className=" border border-orange rounded-full py-2 px-4 text-lg flex items-center justify-center mt-10 hover:bg-orange transition-all duration-500 cursor-pointer md:self-start sm:self-center text-white hover:text-black hover:border-white">
+        My Projects
+      </button>
     </div>
   );
 };

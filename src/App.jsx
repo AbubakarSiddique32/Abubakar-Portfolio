@@ -6,7 +6,7 @@ import AboutMeMain from "./Components/AboutMe/AboutMeMain";
 
 const App = () => {
   return (
-    <div className=" font-body ">
+    <div className=" font-body w-full max-w-[1500px] mx-auto">
       <NavbarMain />
       <HeroMain />
       <HeroBottom />
