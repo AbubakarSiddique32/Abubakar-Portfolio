@@ -16,7 +16,7 @@ const ExperienceLeft = () => {
         With 1 year of experience building dynamic & user-friendly web
         applications.
       </p>
-      <div>
+      <div className=" flex items-center justify-center">
         <ExperienceInfo number="$100k" text="Max - Budget" />
       </div>
     </div>

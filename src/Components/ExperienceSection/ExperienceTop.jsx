@@ -5,7 +5,7 @@ import ExperienceRight from "./ExperienceRight";
 
 const ExperienceTop = () => {
   return (
-    <div>
+    <div className=" flex lg:flex-row sm:flex-col items-center justify-center gap-4">
       <ExperienceLeft />
       <ExperienceMiddle />
       <ExperienceRight />

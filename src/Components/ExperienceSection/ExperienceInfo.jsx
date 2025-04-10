@@ -4,7 +4,7 @@ const ExperienceInfo = (props) => {
   return (
     <div className=" flex flex-col justify-center items-center">
       <p className=" text-6xl text-cyan font-bold">{props.number}</p>
-      <p className="text-xl text-lightGrey font-bold uppercase -mt-2">
+      <p className="text-xl text-lightGrey font-bold uppercase -mt-1">
         {props.text}
       </p>
     </div>
