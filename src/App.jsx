@@ -5,6 +5,7 @@ import HeroBottom from "./Components/HeroSection/HeroBottom";
 import AboutMeMain from "./Components/AboutMe/AboutMeMain";
 import SkillsMain from "./Components/SkillsSection/SkillsMain";
 import SkillsBottom from "./Components/SkillsSection/SkillsBottom";
+import ExperienceMain from "./Components/ExperienceSection/ExperienceMain";
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <AboutMeMain />
       <SkillsMain />
       <SkillsBottom />
+      <ExperienceMain />
     </div>
   );
 };
