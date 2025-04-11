@@ -10,7 +10,7 @@ const ExperienceRight = () => {
         and frameworks like
         <span className="font-bold text-white"> React</span>. I am passionate
         about building seamless, visually appealing interfaces that enhance the
-        user experience. My work emphasizes{" "}
+        user experience. My work emphasizes
         <span className="font-bold text-white">
           performance, accessibility , and responsive design
         </span>

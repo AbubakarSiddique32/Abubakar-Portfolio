@@ -8,7 +8,7 @@ const ExperienceMain = () => {
     <div id="experience" className=" max-w-[1200px] mx-auto px-4 ">
       <ExperienceText />
       <ExperienceTop />
-      <div className=" h-1 bg-lightBrown w-full mt-4 lg:block sm:hidden"></div>
+      <div className=" h-1 bg-lightBrown w-full mt-8 lg:block sm:hidden"></div>
       <ExperienceAll />
     </div>
   );

@@ -43,6 +43,7 @@ const ExperienceAll = () => {
         return (
           <>
             <ExperienceSingle key={index} experience={experience} />
+
             {index < 2 ? (
               <FaArrowRight className=" text-6xl text-orange lg:block sm:hidden" />
             ) : (
